@@ -1,0 +1,50 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+.DS_Store
+.env
+
+# Uploaded files (if any uploads are stored locally)
+uploads/
+
+# Build files
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+
+# Database files
+*.sqlite
+*.db
+
+# System files
+Thumbs.db
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Test coverage
+coverage/
+
+# Other config files
+*.env.local
+.env.*.local
+.env.test
+.env.production.local
+
+# Misc
+*.bak
+*.swp
+*.swo
